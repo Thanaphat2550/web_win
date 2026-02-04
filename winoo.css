@@ -1,0 +1,24 @@
+/* สไตล์สำหรับหัวข้อใหญ่ */
+h1 {
+    color: #1a73e8;
+    text-align: center;
+    border-bottom: 2px solid #1a73e8;
+    padding-bottom: 10px;
+}
+
+/* สไตล์สำหรับหัวข้อรอง */
+h2 {
+    text-align: center;
+    color: #555;
+}
+
+/* กล่องข้อความสไตล์ตัวอย่าง */
+h3 {
+    width: 300px;
+    margin: 20px auto;
+    padding: 15px;
+    border: 2px solid #f1c40f;
+    background-color: #fdf7d4;
+    text-align: center;
+    border-radius: 10px;
+}
